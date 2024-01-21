@@ -33,7 +33,7 @@ Due to the immense size of the full game tree (O(10^35)), it is impractical to t
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/mervattamer/Connect-4-MiniMax.git
-   cd connect-4
+   cd Connect-4-MiniMax
    ```
 
 2. **Install Dependencies:**
