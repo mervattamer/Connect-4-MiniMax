@@ -54,16 +54,10 @@ Due to the immense size of the full game tree (O(10^35)), it is impractical to t
 - **Human vs. Computer:** Choose the player color and AI algorithm.
 - **Set K parameter:** Adjust the depth for truncating the game tree.
 
-## Example Usage
-
-```python
-# Example command to run the game with alpha-beta pruning and K=4
-python connect4.py --algorithm alphabeta --k 4
-```
 
 ## Contributing
 
-Feel free to contribute by submitting bug reports, feature requests, or code contributions. Follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Feel free to contribute by submitting bug reports, feature requests, or code contributions.
 
 ## License
 
