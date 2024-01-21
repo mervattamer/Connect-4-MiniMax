@@ -68,5 +68,3 @@ This project is licensed under the [MIT License](LICENSE).
 Thanks to the creators of Connect 4 for the classic game inspiration!
 
 ---
-
-Remember to replace placeholders like `your-username` with your actual GitHub username and adjust paths and commands as needed based on your project structure and dependencies.
