@@ -32,14 +32,17 @@ Due to the immense size of the full game tree (O(10^35)), it is impractical to t
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/connect-4.git
+   git clone https://github.com/mervattamer/Connect-4-MiniMax.git
    cd connect-4
    ```
 
 2. **Install Dependencies:**
    ```bash
-   pip install -r requirements.txt
-   ```
+   # Install Pygame
+    pip install pygame
+
+   # Install NumPy
+    pip install numpy
 
 3. **Run the Game:**
    ```bash
