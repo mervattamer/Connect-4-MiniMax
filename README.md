@@ -59,9 +59,7 @@ Due to the immense size of the full game tree (O(10^35)), it is impractical to t
 
 Feel free to contribute by submitting bug reports, feature requests, or code contributions.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
